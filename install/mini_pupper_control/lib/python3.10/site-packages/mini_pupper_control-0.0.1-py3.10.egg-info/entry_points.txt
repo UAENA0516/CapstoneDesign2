@@ -1,0 +1,4 @@
+[console_scripts]
+display_interface = mini_pupper_control.display_interface:main
+servo_interface = mini_pupper_control.servo_interface:main
+

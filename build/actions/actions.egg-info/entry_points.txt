@@ -1,0 +1,5 @@
+[console_scripts]
+foot_action = actions.foot_action:main
+send_action = actions.send_action:main
+stt_action = actions.stt_action:main
+

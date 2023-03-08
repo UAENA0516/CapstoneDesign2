@@ -1,0 +1,14 @@
+{
+  "package_name": "champ_msgs",
+  "non_idl_tuples": [
+    "/home/riboha/ros2_ws/src/champ/champ/champ_msgs:msg/Velocities.msg",
+    "/home/riboha/ros2_ws/src/champ/champ/champ_msgs:msg/PID.msg",
+    "/home/riboha/ros2_ws/src/champ/champ/champ_msgs:msg/Imu.msg",
+    "/home/riboha/ros2_ws/src/champ/champ/champ_msgs:msg/Point.msg",
+    "/home/riboha/ros2_ws/src/champ/champ/champ_msgs:msg/PointArray.msg",
+    "/home/riboha/ros2_ws/src/champ/champ/champ_msgs:msg/Joints.msg",
+    "/home/riboha/ros2_ws/src/champ/champ/champ_msgs:msg/Contacts.msg",
+    "/home/riboha/ros2_ws/src/champ/champ/champ_msgs:msg/ContactsStamped.msg",
+    "/home/riboha/ros2_ws/src/champ/champ/champ_msgs:msg/Pose.msg"
+  ]
+}

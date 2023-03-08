@@ -1,0 +1,42 @@
+[0.219s] Invoking command in '/home/riboha/ros2_ws/src/build/champ_teleop': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riboha/ros2_ws/install/mini_pupper_control:/home/riboha/ros2_ws/install/actions:/home/riboha/turtle/install/turtlebot3_teleop:/home/riboha/turtle/install/turtlebot3_example:/home/riboha/colcon_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake /home/riboha/ros2_ws/src/champ/champ_teleop -DCMAKE_INSTALL_PREFIX=/home/riboha/ros2_ws/src/install/champ_teleop
+[0.450s] -- The C compiler identification is GNU 11.3.0
+[0.450s] -- The CXX compiler identification is GNU 11.3.0
+[0.450s] -- Detecting C compiler ABI info
+[0.450s] -- Detecting C compiler ABI info - done
+[0.450s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.450s] -- Detecting C compile features
+[0.450s] -- Detecting C compile features - done
+[0.450s] -- Detecting CXX compiler ABI info
+[0.450s] -- Detecting CXX compiler ABI info - done
+[0.451s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.451s] -- Detecting CXX compile features
+[0.451s] -- Detecting CXX compile features - done
+[0.451s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.653s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[0.869s] -- Configuring done
+[0.875s] -- Generating done
+[0.875s] -- Build files have been written to: /home/riboha/ros2_ws/src/build/champ_teleop
+[0.879s] Invoked command in '/home/riboha/ros2_ws/src/build/champ_teleop' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riboha/ros2_ws/install/mini_pupper_control:/home/riboha/ros2_ws/install/actions:/home/riboha/turtle/install/turtlebot3_teleop:/home/riboha/turtle/install/turtlebot3_example:/home/riboha/colcon_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake /home/riboha/ros2_ws/src/champ/champ_teleop -DCMAKE_INSTALL_PREFIX=/home/riboha/ros2_ws/src/install/champ_teleop
+[0.881s] Invoking command in '/home/riboha/ros2_ws/src/build/champ_teleop': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riboha/ros2_ws/install/mini_pupper_control:/home/riboha/ros2_ws/install/actions:/home/riboha/turtle/install/turtlebot3_teleop:/home/riboha/turtle/install/turtlebot3_example:/home/riboha/colcon_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake --build /home/riboha/ros2_ws/src/build/champ_teleop -- -j16 -l16
+[0.918s] Invoked command in '/home/riboha/ros2_ws/src/build/champ_teleop' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riboha/ros2_ws/install/mini_pupper_control:/home/riboha/ros2_ws/install/actions:/home/riboha/turtle/install/turtlebot3_teleop:/home/riboha/turtle/install/turtlebot3_example:/home/riboha/colcon_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake --build /home/riboha/ros2_ws/src/build/champ_teleop -- -j16 -l16
+[0.943s] Invoking command in '/home/riboha/ros2_ws/src/build/champ_teleop': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riboha/ros2_ws/install/mini_pupper_control:/home/riboha/ros2_ws/install/actions:/home/riboha/turtle/install/turtlebot3_teleop:/home/riboha/turtle/install/turtlebot3_example:/home/riboha/colcon_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake --install /home/riboha/ros2_ws/src/build/champ_teleop
+[0.951s] -- Install configuration: ""
+[0.951s] -- Installing: /home/riboha/ros2_ws/src/install/champ_teleop/share/champ_teleop/launch
+[0.951s] -- Installing: /home/riboha/ros2_ws/src/install/champ_teleop/share/champ_teleop/launch/teleop.launch.py
+[0.951s] -- Installing: /home/riboha/ros2_ws/src/install/champ_teleop/lib/champ_teleop/champ_teleop.py
+[0.951s] -- Installing: /home/riboha/ros2_ws/src/install/champ_teleop/share/ament_index/resource_index/package_run_dependencies/champ_teleop
+[0.952s] -- Installing: /home/riboha/ros2_ws/src/install/champ_teleop/share/ament_index/resource_index/parent_prefix_path/champ_teleop
+[0.952s] -- Installing: /home/riboha/ros2_ws/src/install/champ_teleop/share/champ_teleop/environment/ament_prefix_path.sh
+[0.952s] -- Installing: /home/riboha/ros2_ws/src/install/champ_teleop/share/champ_teleop/environment/ament_prefix_path.dsv
+[0.952s] -- Installing: /home/riboha/ros2_ws/src/install/champ_teleop/share/champ_teleop/environment/path.sh
+[0.952s] -- Installing: /home/riboha/ros2_ws/src/install/champ_teleop/share/champ_teleop/environment/path.dsv
+[0.952s] -- Installing: /home/riboha/ros2_ws/src/install/champ_teleop/share/champ_teleop/local_setup.bash
+[0.953s] -- Installing: /home/riboha/ros2_ws/src/install/champ_teleop/share/champ_teleop/local_setup.sh
+[0.953s] -- Installing: /home/riboha/ros2_ws/src/install/champ_teleop/share/champ_teleop/local_setup.zsh
+[0.953s] -- Installing: /home/riboha/ros2_ws/src/install/champ_teleop/share/champ_teleop/local_setup.dsv
+[0.953s] -- Installing: /home/riboha/ros2_ws/src/install/champ_teleop/share/champ_teleop/package.dsv
+[0.953s] -- Installing: /home/riboha/ros2_ws/src/install/champ_teleop/share/ament_index/resource_index/packages/champ_teleop
+[0.953s] -- Installing: /home/riboha/ros2_ws/src/install/champ_teleop/share/champ_teleop/cmake/champ_teleopConfig.cmake
+[0.953s] -- Installing: /home/riboha/ros2_ws/src/install/champ_teleop/share/champ_teleop/cmake/champ_teleopConfig-version.cmake
+[0.953s] -- Installing: /home/riboha/ros2_ws/src/install/champ_teleop/share/champ_teleop/package.xml
+[0.961s] Invoked command in '/home/riboha/ros2_ws/src/build/champ_teleop' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riboha/ros2_ws/install/mini_pupper_control:/home/riboha/ros2_ws/install/actions:/home/riboha/turtle/install/turtlebot3_teleop:/home/riboha/turtle/install/turtlebot3_example:/home/riboha/colcon_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake --install /home/riboha/ros2_ws/src/build/champ_teleop

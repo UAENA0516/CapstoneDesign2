@@ -1,0 +1,87 @@
+[0.216s] Invoking command in '/home/riboha/ros2_ws/src/build/ldlidar_stl_ros2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riboha/ros2_ws/install/mini_pupper_control:/home/riboha/ros2_ws/install/actions:/home/riboha/turtle/install/turtlebot3_teleop:/home/riboha/turtle/install/turtlebot3_example:/home/riboha/colcon_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake /home/riboha/ros2_ws/src/ldlidar_stl_ros -DCMAKE_INSTALL_PREFIX=/home/riboha/ros2_ws/src/install/ldlidar_stl_ros2
+[0.444s] -- The C compiler identification is GNU 11.3.0
+[0.444s] -- The CXX compiler identification is GNU 11.3.0
+[0.444s] -- Detecting C compiler ABI info
+[0.444s] -- Detecting C compiler ABI info - done
+[0.444s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.444s] -- Detecting C compile features
+[0.444s] -- Detecting C compile features - done
+[0.444s] -- Detecting CXX compiler ABI info
+[0.445s] -- Detecting CXX compiler ABI info - done
+[0.448s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.448s] -- Detecting CXX compile features
+[0.449s] -- Detecting CXX compile features - done
+[0.451s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.674s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[0.782s] -- Found rclcpp: 16.0.3 (/opt/ros/humble/share/rclcpp/cmake)
+[0.845s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.853s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.864s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.880s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.902s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.968s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.973s] -- Found rmw_fastrtps_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.087s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.114s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.154s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.173s] -- Looking for pthread.h
+[1.236s] -- Looking for pthread.h - found
+[1.236s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.288s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.289s] -- Found Threads: TRUE  
+[1.401s] -- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)
+[1.483s] -- Found ament_lint_auto: 0.12.5 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.555s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.558s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.558s] -- Configured cppcheck include dirs: /home/riboha/ros2_ws/src/ldlidar_stl_ros/include;/home/riboha/ros2_ws/src/ldlidar_stl_ros/ldlidar_driver/include/core;/home/riboha/ros2_ws/src/ldlidar_stl_ros/ldlidar_driver/include/dataprocess;/home/riboha/ros2_ws/src/ldlidar_stl_ros/ldlidar_driver/include/filter;/home/riboha/ros2_ws/src/ldlidar_stl_ros/ldlidar_driver/include/logger;/home/riboha/ros2_ws/src/ldlidar_stl_ros/ldlidar_driver/include/networkcom;/home/riboha/ros2_ws/src/ldlidar_stl_ros/ldlidar_driver/include/serialcom
+[1.558s] -- Configured cppcheck exclude dirs and/or files: 
+[1.560s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.560s] -- Configured cpplint exclude dirs and/or files: 
+[1.561s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.562s] -- Added test 'lint_cmake' to check CMake code style
+[1.563s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.566s] -- Added test 'uncrustify' to check C / C++ code style
+[1.566s] -- Configured uncrustify additional arguments: 
+[1.567s] -- Added test 'xmllint' to check XML markup files
+[1.568s] -- Configuring done
+[1.575s] -- Generating done
+[1.575s] -- Build files have been written to: /home/riboha/ros2_ws/src/build/ldlidar_stl_ros2
+[1.582s] Invoked command in '/home/riboha/ros2_ws/src/build/ldlidar_stl_ros2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riboha/ros2_ws/install/mini_pupper_control:/home/riboha/ros2_ws/install/actions:/home/riboha/turtle/install/turtlebot3_teleop:/home/riboha/turtle/install/turtlebot3_example:/home/riboha/colcon_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake /home/riboha/ros2_ws/src/ldlidar_stl_ros -DCMAKE_INSTALL_PREFIX=/home/riboha/ros2_ws/src/install/ldlidar_stl_ros2
+[1.583s] Invoking command in '/home/riboha/ros2_ws/src/build/ldlidar_stl_ros2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riboha/ros2_ws/install/mini_pupper_control:/home/riboha/ros2_ws/install/actions:/home/riboha/turtle/install/turtlebot3_teleop:/home/riboha/turtle/install/turtlebot3_example:/home/riboha/colcon_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake --build /home/riboha/ros2_ws/src/build/ldlidar_stl_ros2 -- -j16 -l16
+[1.616s] [ 37%] [32mBuilding CXX object CMakeFiles/ldlidar_stl_ros2_node.dir/ldlidar_driver/src/core/ldlidar_driver.cpp.o[0m
+[1.616s] [ 37%] [32mBuilding CXX object CMakeFiles/ldlidar_stl_ros2_node.dir/ldlidar_driver/src/dataprocess/lipkg.cpp.o[0m
+[1.616s] [ 37%] [32mBuilding CXX object CMakeFiles/ldlidar_stl_ros2_node.dir/ldlidar_driver/src/networkcom/network_socket_interface_linux.cpp.o[0m
+[1.616s] [ 50%] [32mBuilding CXX object CMakeFiles/ldlidar_stl_ros2_node.dir/ldlidar_driver/src/logger/log_module.cpp.o[0m
+[1.617s] [ 62%] [32mBuilding CXX object CMakeFiles/ldlidar_stl_ros2_node.dir/ldlidar_driver/src/filter/tofbf.cpp.o[0m
+[1.617s] [ 75%] [32mBuilding CXX object CMakeFiles/ldlidar_stl_ros2_node.dir/src/demo.cpp.o[0m
+[1.619s] [ 87%] [32mBuilding CXX object CMakeFiles/ldlidar_stl_ros2_node.dir/ldlidar_driver/src/serialcom/serial_interface_linux.cpp.o[0m
+[5.308s] [100%] [32m[1mLinking CXX executable ldlidar_stl_ros2_node[0m
+[5.446s] [100%] Built target ldlidar_stl_ros2_node
+[5.453s] Invoked command in '/home/riboha/ros2_ws/src/build/ldlidar_stl_ros2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riboha/ros2_ws/install/mini_pupper_control:/home/riboha/ros2_ws/install/actions:/home/riboha/turtle/install/turtlebot3_teleop:/home/riboha/turtle/install/turtlebot3_example:/home/riboha/colcon_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake --build /home/riboha/ros2_ws/src/build/ldlidar_stl_ros2 -- -j16 -l16
+[5.477s] Invoking command in '/home/riboha/ros2_ws/src/build/ldlidar_stl_ros2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riboha/ros2_ws/install/mini_pupper_control:/home/riboha/ros2_ws/install/actions:/home/riboha/turtle/install/turtlebot3_teleop:/home/riboha/turtle/install/turtlebot3_example:/home/riboha/colcon_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake --install /home/riboha/ros2_ws/src/build/ldlidar_stl_ros2
+[5.480s] -- Install configuration: ""
+[5.481s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/lib/ldlidar_stl_ros2/ldlidar_stl_ros2_node
+[5.481s] -- Set runtime path of "/home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/lib/ldlidar_stl_ros2/ldlidar_stl_ros2_node" to ""
+[5.481s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2//launch
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2//launch/ld19.launch.py
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2//launch/ld06.launch.py
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2//launch/viewer_ld19.launch.py
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2//launch/viewer_ld06.launch.py
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2//rviz2
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2//rviz2/ldlidar.rviz
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ament_index/resource_index/package_run_dependencies/ldlidar_stl_ros2
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ament_index/resource_index/parent_prefix_path/ldlidar_stl_ros2
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/environment/ament_prefix_path.sh
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/environment/ament_prefix_path.dsv
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/environment/path.sh
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/environment/path.dsv
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/local_setup.bash
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/local_setup.sh
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/local_setup.zsh
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/local_setup.dsv
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/package.dsv
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ament_index/resource_index/packages/ldlidar_stl_ros2
+[5.482s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/cmake/ldlidar_stl_ros2Config.cmake
+[5.483s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/cmake/ldlidar_stl_ros2Config-version.cmake
+[5.483s] -- Installing: /home/riboha/ros2_ws/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/package.xml
+[5.485s] Invoked command in '/home/riboha/ros2_ws/src/build/ldlidar_stl_ros2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riboha/ros2_ws/install/mini_pupper_control:/home/riboha/ros2_ws/install/actions:/home/riboha/turtle/install/turtlebot3_teleop:/home/riboha/turtle/install/turtlebot3_example:/home/riboha/colcon_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake --install /home/riboha/ros2_ws/src/build/ldlidar_stl_ros2

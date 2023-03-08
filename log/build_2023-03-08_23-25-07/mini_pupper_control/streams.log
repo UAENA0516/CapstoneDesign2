@@ -1,0 +1,24 @@
+[0.632s] Invoking command in '/home/riboha/ros2_ws/src/mini_pupper_ros/mini_pupper_control': PYTHONPATH=/home/riboha/ros2_ws/src/build/mini_pupper_control/prefix_override:/home/riboha/ros2_ws/src/install/mini_pupper_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mini_pupper_control build --build-base /home/riboha/ros2_ws/src/build/mini_pupper_control/build install --record /home/riboha/ros2_ws/src/build/mini_pupper_control/install.log --single-version-externally-managed
+[0.777s] running egg_info
+[0.777s] writing ../../build/mini_pupper_control/mini_pupper_control.egg-info/PKG-INFO
+[0.778s] writing dependency_links to ../../build/mini_pupper_control/mini_pupper_control.egg-info/dependency_links.txt
+[0.778s] writing entry points to ../../build/mini_pupper_control/mini_pupper_control.egg-info/entry_points.txt
+[0.778s] writing requirements to ../../build/mini_pupper_control/mini_pupper_control.egg-info/requires.txt
+[0.778s] writing top-level names to ../../build/mini_pupper_control/mini_pupper_control.egg-info/top_level.txt
+[0.783s] reading manifest file '../../build/mini_pupper_control/mini_pupper_control.egg-info/SOURCES.txt'
+[0.784s] writing manifest file '../../build/mini_pupper_control/mini_pupper_control.egg-info/SOURCES.txt'
+[0.784s] running build
+[0.784s] running build_py
+[0.784s] running install
+[0.784s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.784s]   warnings.warn(
+[0.784s] running install_lib
+[0.784s] running install_data
+[0.784s] running install_egg_info
+[0.784s] removing '/home/riboha/ros2_ws/src/install/mini_pupper_control/lib/python3.10/site-packages/mini_pupper_control-0.0.1-py3.10.egg-info' (and everything under it)
+[0.784s] Copying ../../build/mini_pupper_control/mini_pupper_control.egg-info to /home/riboha/ros2_ws/src/install/mini_pupper_control/lib/python3.10/site-packages/mini_pupper_control-0.0.1-py3.10.egg-info
+[0.784s] running install_scripts
+[0.796s] Installing display_interface script to /home/riboha/ros2_ws/src/install/mini_pupper_control/lib/mini_pupper_control
+[0.796s] Installing servo_interface script to /home/riboha/ros2_ws/src/install/mini_pupper_control/lib/mini_pupper_control
+[0.796s] writing list of installed files to '/home/riboha/ros2_ws/src/build/mini_pupper_control/install.log'
+[0.829s] Invoked command in '/home/riboha/ros2_ws/src/mini_pupper_ros/mini_pupper_control' returned '0': PYTHONPATH=/home/riboha/ros2_ws/src/build/mini_pupper_control/prefix_override:/home/riboha/ros2_ws/src/install/mini_pupper_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mini_pupper_control build --build-base /home/riboha/ros2_ws/src/build/mini_pupper_control/build install --record /home/riboha/ros2_ws/src/build/mini_pupper_control/install.log --single-version-externally-managed

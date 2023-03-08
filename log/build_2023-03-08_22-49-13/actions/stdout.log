@@ -1,0 +1,43 @@
+running egg_info
+creating ../build/actions/actions.egg-info
+writing ../build/actions/actions.egg-info/PKG-INFO
+writing dependency_links to ../build/actions/actions.egg-info/dependency_links.txt
+writing entry points to ../build/actions/actions.egg-info/entry_points.txt
+writing requirements to ../build/actions/actions.egg-info/requires.txt
+writing top-level names to ../build/actions/actions.egg-info/top_level.txt
+writing manifest file '../build/actions/actions.egg-info/SOURCES.txt'
+reading manifest file '../build/actions/actions.egg-info/SOURCES.txt'
+writing manifest file '../build/actions/actions.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/riboha/ros2_ws/src/build/actions/build
+creating /home/riboha/ros2_ws/src/build/actions/build/lib
+creating /home/riboha/ros2_ws/src/build/actions/build/lib/actions
+copying actions/__init__.py -> /home/riboha/ros2_ws/src/build/actions/build/lib/actions
+copying actions/foot_action.py -> /home/riboha/ros2_ws/src/build/actions/build/lib/actions
+copying actions/stt_action.py -> /home/riboha/ros2_ws/src/build/actions/build/lib/actions
+copying actions/send_action.py -> /home/riboha/ros2_ws/src/build/actions/build/lib/actions
+running install
+running install_lib
+creating /home/riboha/ros2_ws/src/install/actions/lib/python3.10/site-packages/actions
+copying /home/riboha/ros2_ws/src/build/actions/build/lib/actions/__init__.py -> /home/riboha/ros2_ws/src/install/actions/lib/python3.10/site-packages/actions
+copying /home/riboha/ros2_ws/src/build/actions/build/lib/actions/foot_action.py -> /home/riboha/ros2_ws/src/install/actions/lib/python3.10/site-packages/actions
+copying /home/riboha/ros2_ws/src/build/actions/build/lib/actions/stt_action.py -> /home/riboha/ros2_ws/src/install/actions/lib/python3.10/site-packages/actions
+copying /home/riboha/ros2_ws/src/build/actions/build/lib/actions/send_action.py -> /home/riboha/ros2_ws/src/install/actions/lib/python3.10/site-packages/actions
+byte-compiling /home/riboha/ros2_ws/src/install/actions/lib/python3.10/site-packages/actions/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/riboha/ros2_ws/src/install/actions/lib/python3.10/site-packages/actions/foot_action.py to foot_action.cpython-310.pyc
+byte-compiling /home/riboha/ros2_ws/src/install/actions/lib/python3.10/site-packages/actions/stt_action.py to stt_action.cpython-310.pyc
+byte-compiling /home/riboha/ros2_ws/src/install/actions/lib/python3.10/site-packages/actions/send_action.py to send_action.cpython-310.pyc
+running install_data
+creating /home/riboha/ros2_ws/src/install/actions/share/ament_index
+creating /home/riboha/ros2_ws/src/install/actions/share/ament_index/resource_index
+creating /home/riboha/ros2_ws/src/install/actions/share/ament_index/resource_index/packages
+copying resource/actions -> /home/riboha/ros2_ws/src/install/actions/share/ament_index/resource_index/packages
+copying package.xml -> /home/riboha/ros2_ws/src/install/actions/share/actions
+running install_egg_info
+Copying ../build/actions/actions.egg-info to /home/riboha/ros2_ws/src/install/actions/lib/python3.10/site-packages/actions-0.0.1-py3.10.egg-info
+running install_scripts
+Installing foot_action script to /home/riboha/ros2_ws/src/install/actions/lib/actions
+Installing send_action script to /home/riboha/ros2_ws/src/install/actions/lib/actions
+Installing stt_action script to /home/riboha/ros2_ws/src/install/actions/lib/actions
+writing list of installed files to '/home/riboha/ros2_ws/src/build/actions/install.log'

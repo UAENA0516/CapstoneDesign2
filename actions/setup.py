@@ -23,7 +23,7 @@ setup(
         'console_scripts': [
             'send_action = actions.send_action:main',
             'foot_action = actions.foot_action:main',
-            'ftt_action = actions.stt_action:main',
+            'stt_action = actions.stt_action:main',
         ],
     },
 )

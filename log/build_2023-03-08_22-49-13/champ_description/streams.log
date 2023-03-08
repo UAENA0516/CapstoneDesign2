@@ -1,0 +1,73 @@
+[0.063s] Invoking command in '/home/riboha/ros2_ws/src/build/champ_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riboha/ros2_ws/install/mini_pupper_control:/home/riboha/ros2_ws/install/actions:/home/riboha/turtle/install/turtlebot3_teleop:/home/riboha/turtle/install/turtlebot3_example:/home/riboha/colcon_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake /home/riboha/ros2_ws/src/champ/champ/champ_description -DCMAKE_INSTALL_PREFIX=/home/riboha/ros2_ws/src/install/champ_description
+[0.468s] -- The C compiler identification is GNU 11.3.0
+[0.469s] -- The CXX compiler identification is GNU 11.3.0
+[0.469s] -- Detecting C compiler ABI info
+[0.469s] -- Detecting C compiler ABI info - done
+[0.469s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.469s] -- Detecting C compile features
+[0.469s] -- Detecting C compile features - done
+[0.469s] -- Detecting CXX compiler ABI info
+[0.469s] -- Detecting CXX compiler ABI info - done
+[0.469s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.470s] -- Detecting CXX compile features
+[0.470s] -- Detecting CXX compile features - done
+[0.470s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.470s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[0.552s] -- Found ament_lint_auto: 0.12.5 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.642s] -- Configuring done
+[0.644s] -- Generating done
+[0.647s] -- Build files have been written to: /home/riboha/ros2_ws/src/build/champ_description
+[0.651s] Invoked command in '/home/riboha/ros2_ws/src/build/champ_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riboha/ros2_ws/install/mini_pupper_control:/home/riboha/ros2_ws/install/actions:/home/riboha/turtle/install/turtlebot3_teleop:/home/riboha/turtle/install/turtlebot3_example:/home/riboha/colcon_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake /home/riboha/ros2_ws/src/champ/champ/champ_description -DCMAKE_INSTALL_PREFIX=/home/riboha/ros2_ws/src/install/champ_description
+[0.652s] Invoking command in '/home/riboha/ros2_ws/src/build/champ_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riboha/ros2_ws/install/mini_pupper_control:/home/riboha/ros2_ws/install/actions:/home/riboha/turtle/install/turtlebot3_teleop:/home/riboha/turtle/install/turtlebot3_example:/home/riboha/colcon_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake --build /home/riboha/ros2_ws/src/build/champ_description -- -j16 -l16
+[0.691s] Invoked command in '/home/riboha/ros2_ws/src/build/champ_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riboha/ros2_ws/install/mini_pupper_control:/home/riboha/ros2_ws/install/actions:/home/riboha/turtle/install/turtlebot3_teleop:/home/riboha/turtle/install/turtlebot3_example:/home/riboha/colcon_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake --build /home/riboha/ros2_ws/src/build/champ_description -- -j16 -l16
+[0.741s] Invoking command in '/home/riboha/ros2_ws/src/build/champ_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riboha/ros2_ws/install/mini_pupper_control:/home/riboha/ros2_ws/install/actions:/home/riboha/turtle/install/turtlebot3_teleop:/home/riboha/turtle/install/turtlebot3_example:/home/riboha/colcon_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake --install /home/riboha/ros2_ws/src/build/champ_description
+[0.749s] -- Install configuration: ""
+[0.749s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/launch
+[0.749s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/launch/description.launch
+[0.750s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/launch/view_urdf.launch
+[0.750s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/launch/description.launch.py
+[0.750s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/rviz
+[0.750s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/rviz/urdf_viewer.rviz
+[0.751s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/meshes
+[0.751s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/meshes/upper_leg_simple.stl
+[0.751s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/meshes/lower_leg_simple.stl
+[0.751s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/meshes/lower_leg.stl
+[0.752s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/meshes/arm
+[0.752s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/meshes/arm/upper_arm.stl
+[0.753s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/meshes/arm/wrist2.stl
+[0.754s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/meshes/arm/wrist1.stl
+[0.754s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/meshes/arm/base.stl
+[0.755s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/meshes/arm/lower_arm.stl
+[0.755s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/meshes/base.stl
+[0.756s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/meshes/hip.stl
+[0.756s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/meshes/upper_leg.stl
+[0.756s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/meshes/hokuyo_utm_30lx.dae
+[0.756s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/meshes/asus_camera_simple.dae
+[0.756s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/meshes/base_simple.stl
+[0.757s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/urdf
+[0.757s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/urdf/asus_camera.urdf.xacro
+[0.758s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/urdf/hokuyo_utm30lx.urdf.xacro
+[0.758s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/urdf/champ_arm.urdf
+[0.758s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/urdf/champ.urdf.xacro
+[0.758s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/urdf/champ.urdf
+[0.759s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/urdf/gen_urdf
+[0.759s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/urdf/champ_velodyne.urdf
+[0.759s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/urdf/properties.urdf.xacro
+[0.759s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/urdf/accessories.urdf.xacro
+[0.760s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/urdf/leg.urdf.xacro
+[0.760s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/ament_index/resource_index/package_run_dependencies/champ_description
+[0.760s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/ament_index/resource_index/parent_prefix_path/champ_description
+[0.760s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/environment/ament_prefix_path.sh
+[0.761s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/environment/ament_prefix_path.dsv
+[0.761s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/environment/path.sh
+[0.761s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/environment/path.dsv
+[0.761s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/local_setup.bash
+[0.761s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/local_setup.sh
+[0.762s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/local_setup.zsh
+[0.762s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/local_setup.dsv
+[0.762s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/package.dsv
+[0.762s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/ament_index/resource_index/packages/champ_description
+[0.762s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/cmake/champ_descriptionConfig.cmake
+[0.762s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/cmake/champ_descriptionConfig-version.cmake
+[0.763s] -- Installing: /home/riboha/ros2_ws/src/install/champ_description/share/champ_description/package.xml
+[0.765s] Invoked command in '/home/riboha/ros2_ws/src/build/champ_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riboha/ros2_ws/install/mini_pupper_control:/home/riboha/ros2_ws/install/actions:/home/riboha/turtle/install/turtlebot3_teleop:/home/riboha/turtle/install/turtlebot3_example:/home/riboha/colcon_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake --install /home/riboha/ros2_ws/src/build/champ_description
