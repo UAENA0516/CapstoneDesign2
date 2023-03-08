@@ -1,9 +1,0 @@
-/home/riboha/ros2_ws/src/build/mini_pupper_description/CMakeFiles/uninstall.dir
-/home/riboha/ros2_ws/src/build/mini_pupper_description/CMakeFiles/mini_pupper_description_uninstall.dir
-/home/riboha/ros2_ws/src/build/mini_pupper_description/CMakeFiles/test.dir
-/home/riboha/ros2_ws/src/build/mini_pupper_description/CMakeFiles/edit_cache.dir
-/home/riboha/ros2_ws/src/build/mini_pupper_description/CMakeFiles/rebuild_cache.dir
-/home/riboha/ros2_ws/src/build/mini_pupper_description/CMakeFiles/list_install_components.dir
-/home/riboha/ros2_ws/src/build/mini_pupper_description/CMakeFiles/install.dir
-/home/riboha/ros2_ws/src/build/mini_pupper_description/CMakeFiles/install/local.dir
-/home/riboha/ros2_ws/src/build/mini_pupper_description/CMakeFiles/install/strip.dir
