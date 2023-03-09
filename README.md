@@ -6,15 +6,15 @@
 
 🗓️ 2023.3 ~ 2023.6
 
-
+<br/>
 
 # 🐕 개요
 
-
-
-![Untitled](2023%20%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%83%E1%85%B52%20a57d5a0a568b4b5e99ae96067bcd1848/Untitled.png)
+<img src="github_img/image_JGcqS0fyMf.avif" width="500" height="300"/>
 
 ### 독거노인 등 외로운 사람들을 위한 다목적 로봇 애완견
+
+<br/>
 
 # 🖲️ 기능
 
@@ -84,9 +84,11 @@ Python
 
 </aside>
 
-# 🧑‍🏭 역할 분담
+<br/>
 
+# 🧑 역할 분담
 
+<br/>
 
 # 📊 진행상황
 
